@@ -1,0 +1,284 @@
+{
+  "clothing": [
+    {
+      "image": "https://static-01.daraz.pk/p/522ffe8c2e1df45875513bdff9e1eccf.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 849",
+      "rating": 3.5,
+      "category": "Men Shirts",
+      "id": 3
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/ce6f45bc117f134b7fced35ef7ae5254.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 949",
+      "rating": 2,
+      "category": "Men Shirts",
+      "id": 4
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/28f30035ea380f6ace44734dfccf773c.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 549",
+      "rating": 3,
+      "category": "Men Shirts",
+      "id": 5
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/ce6f45bc117f134b7fced35ef7ae5254.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 549",
+      "rating": 3,
+      "category": "Men Shirts",
+      "id": 6
+    },
+    {
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 350",
+      "rating": 4.8,
+      "category": "Men T-shirts",
+      "id": 7
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/ef1601dca8dbc1c1839c7e06e799fe94.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 600",
+      "rating": 4.3,
+      "category": "Men T-shirts",
+      "id": 8
+    },
+    {
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 849",
+      "rating": 3.5,
+      "category": "Men T-shirts",
+      "id": 9
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/ef1601dca8dbc1c1839c7e06e799fe94.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 750",
+      "rating": 2,
+      "category": "Men T-shirts",
+      "id": 10
+    },
+    {
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 350",
+      "rating": 4.8,
+      "category": "Men T-shirts",
+      "id": 11
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/ef1601dca8dbc1c1839c7e06e799fe94.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 600",
+      "rating": 4.3,
+      "category": "Men T-shirts",
+      "id": 12
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/9b62e775ae1470ccf7f9d565cbce4bee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,749",
+      "rating": 4.8,
+      "category": "Men Pants",
+      "id": 13
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/cb73129c69a17797a014e8483b0a2c23.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 649",
+      "rating": 4.3,
+      "category": "Men Pants",
+      "id": 14
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/9b62e775ae1470ccf7f9d565cbce4bee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 999",
+      "rating": 3.5,
+      "category": "Men Pants",
+      "id": 15
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/cb73129c69a17797a014e8483b0a2c23.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,949",
+      "rating": 2,
+      "category": "Men Pants",
+      "id": 16
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/9b62e775ae1470ccf7f9d565cbce4bee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,749",
+      "rating": 4.8,
+      "category": "Men Pants",
+      "id": 17
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/9b62e775ae1470ccf7f9d565cbce4bee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 649",
+      "rating": 4.3,
+      "category": "Men Pants",
+      "id": 18
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/641d24b75c6386ef7a7b3b202f2a1ebd.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 2000",
+      "rating": 4.8,
+      "category": "Men shoes",
+      "id": 19
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/8503d7b281ab812b834788ecbfd13b0e.jpghttps://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,649",
+      "rating": 4.3,
+      "category": "Men shoes",
+      "id": 20
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/641d24b75c6386ef7a7b3b202f2a1ebd.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 999",
+      "rating": 3.5,
+      "category": "Men shoes",
+      "id": 21
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/8503d7b281ab812b834788ecbfd13b0e.jpghttps://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,549",
+      "rating": 2,
+      "category": "Men shoes",
+      "id": 22
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/641d24b75c6386ef7a7b3b202f2a1ebd.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 2000",
+      "rating": 4.8,
+      "category": "Men shoes",
+      "id": 23
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/8503d7b281ab812b834788ecbfd13b0e.jpghttps://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,649",
+      "rating": 4.3,
+      "category": "Men shoes",
+      "id": 24
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 449",
+      "rating": 4.8,
+      "category": "Men Watches",
+      "id": 25
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/328e32b779c2bf0d162f00d8db755529.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 649",
+      "rating": 4.3,
+      "category": "Men Watches",
+      "id": 26
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 999",
+      "rating": 3.5,
+      "category": "Men Watches",
+      "id": 27
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/328e32b779c2bf0d162f00d8db755529.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,949",
+      "rating": 2,
+      "category": "Men Watches",
+      "id": 28
+    },
+    {
+      "image": "https://static-01.daraz.pk/p/e15b121092591ad7994e4ed2e00456f7.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae?",
+      "price": " 1,749",
+      "rating": 4.8,
+      "category": "Men Watches",
+      "id": 29
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "Men Shirts"
+    },
+    {
+      "id": 2,
+      "title": "Men T-shirts"
+    },
+    {
+      "title": "Men Pants",
+      "id": 3
+    },
+    {
+      "title": "Men shoes",
+      "id": 4
+    },
+    {
+      "title": "Men Watches",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "testuser@test.com",
+      "password": "$2a$10$fWiE3C.ALctaisTt15KkJ.8oTX36v0gwJuizugxktH209edtXzcXO",
+      "id": 0
+    },
+    {
+      "email": "test.tet@gmail.com",
+      "password": "$2a$10$U0qmgo4iKmAGpl4wKN/AxOJBmZvdJIeRS1Iwf90txHrpZMBWK2EJ2",
+      "id": 1
+    },
+    {
+      "email": "test1.test@gmail.com",
+      "password": "$2a$10$V5if4htLyXfTKQJ7PvZSbeVBMcRVE53WffSjACjqmNy2H/qJa0bp.",
+      "id": 2
+    },
+    {
+      "email": "test2.test@gmail.com",
+      "password": "$2a$10$NBLMOMwtAzKxRXmEDbEb8O3fEYGyYQyBGfkazR4Cb8He8hpqNMwhC",
+      "id": 3
+    },
+    {
+      "email": "test3.test@gmail.com",
+      "password": "$2a$10$WrHOiP6qn/AXX4sbWJMQIuaR2/cryJgG19sfBAHbeWwZf0gyYufvC",
+      "id": 4
+    },
+    {
+      "email": "test4.test@gmail.com",
+      "password": "$2a$10$xlbsVw1Y7HA4SWlWouJroO1JefEmqLxsAsh0i3wQ9trie.UmB97vq",
+      "id": 5
+    },
+    {
+      "email": "test.test9@gmail.com",
+      "password": "$2a$10$lIXvhk9IiL1/revZDU/HPeUULUdlK0CKLAq3ibkwn128cUwqCY/E.",
+      "id": 6
+    },
+    {
+      "email": "test.test144@gmail.com",
+      "password": "$2a$10$3dwI0uxgD2X9W7hAQzrBcOBFEYnGRUCUHYJvWtL5NhZhGgmaXOfaO",
+      "id": 7
+    }
+  ]
+}
